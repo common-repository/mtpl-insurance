@@ -1,0 +1,17 @@
+@media only screen and (max-width : 568px) {
+	.sljar_title {
+	  font-size: 20px;
+	}
+}
+
+@media only screen and (max-width : 480px) {
+	.sljar_title {
+	  font-size: 18px;
+	}
+}
+
+@media only screen and (max-width : 414px) {
+	.sljar_title {
+	  font-size: 16px;
+	}
+}
